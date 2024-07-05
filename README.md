@@ -1,5 +1,5 @@
-### PRACTICAL EXERCISE ON EXCEPTION CUSTOMIZED, POJO, AND HOW TO CREATE AN OBJECT IN JAVA
-### DESCRIPTION
+# PRACTICAL EXERCISE ON EXCEPTION CUSTOMIZED, POJO, AND HOW TO CREATE AN OBJECT IN JAVA
+# DESCRIPTION
 in these programs we are looking for learning, especially in basic knowledge of java language and how to write a code correctly and always taking into account the book "Clean Code".
 Custom error exception in java : this code is about how to create a custom error.
 POJO: 
@@ -7,7 +7,7 @@ Stands for "Plain Old Java Object" in this code is about how to encapsulate data
 How to print an object in java:
 The code shows how to print an object by calling the object.
 ### LENGUAJE USED
-JAVA
+*JAVA
 # How to generate your exception  ?
 To generate a custom exception in Java, we must follow the following steps:
 
